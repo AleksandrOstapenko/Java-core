@@ -7,6 +7,7 @@ public class Task1_Strings {
 
         System.out.println("Привет! напиши чего-нибудь");
         System.out.println("Привет! Это тест");
+        System.out.println("Привет! Это тест");
 
         String text = sc.nextLine();
 
