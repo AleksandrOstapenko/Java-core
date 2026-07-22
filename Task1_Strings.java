@@ -6,6 +6,7 @@ public class Task1_Strings {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Привет! напиши чего-нибудь");
+        System.out.println("Привет! Это тест");
 
         String text = sc.nextLine();
 
